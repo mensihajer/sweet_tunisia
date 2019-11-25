@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bienvenue">welcome Tunisia</string>
+    <string name="connecter">sign in</string>
+    <string name="inscrire"> sign up </string>
+<string name="discover">discover the beautiful Tunisia</string>
+    <string name="hello">bonjour Tunisie</string>
+
+</resources>

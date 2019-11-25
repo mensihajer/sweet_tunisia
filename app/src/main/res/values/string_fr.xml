@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenue">bienvenue au tunisie</string>
+    <string name="connecter">se connecter</string>
+    <string name="inscrire">s\'inscrire</string>
+    <string name="discover">decouvrir la belle Tunisie </string>
+    <string name="hello">bonjour la Tunisie</string>
+
+</resources>

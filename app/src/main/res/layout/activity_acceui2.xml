@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="30"
+    android:layout_marginRight="-50"
+    android:layout_marginBottom="20"
+    android:background="#CE03A9F4"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/inscrire"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="700px"
+        android:layout_marginTop="50px"
+        android:layout_marginRight="50px"
+        android:background="#A12196F3"
+        android:text="@string/inscrire"
+        android:textAllCaps="FALSE"
+        android:textColor="#FFFFFF"
+        android:textSize="16"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/connecter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="160"
+        android:layout_marginTop="-50"
+        android:background="#A12196F3"
+        android:text="@string/connecter"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic" />
+
+
+    <TextView
+        android:id="@+id/bienvenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30"
+        android:layout_marginTop="450"
+        android:layout_marginRight="30"
+        android:layout_marginBottom="10"
+        android:gravity="center"
+        android:text="@string/discover"
+        android:textColor="#FFFFFF"
+        android:textSize="35"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="-55"
+        android:layout_marginTop="-500"
+        android:layout_marginRight="-5"
+        android:layout_marginBottom="250"
+        app:srcCompat="@drawable/image" />
+
+    <ImageView
+        android:id="@+id/next"
+        android:layout_width="56dp"
+        android:layout_height="74dp"
+        android:layout_marginLeft="335"
+        android:layout_marginTop="-470"
+        android:layout_marginRight="0"
+        android:layout_marginBottom="130"
+        app:srcCompat="@android:drawable/ic_media_ff" />
+
+    <ImageView
+        android:id="@+id/previous"
+        android:layout_width="57dp"
+        android:layout_height="64dp"
+        android:layout_marginLeft="-10"
+        android:layout_marginTop="-200"
+        android:layout_marginRight="380"
+        android:layout_marginBottom="400"
+        app:srcCompat="@android:drawable/ic_media_rew" />
+
+
+</LinearLayout>
