@@ -11,12 +11,13 @@
         android:id="@+id/inscrire_btn"
         android:layout_width="108dp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="140"
-        android:layout_marginTop="30"
+        android:layout_marginLeft="350px"
+        android:layout_marginTop="80px"
         android:background="#A12196F3"
         android:maxWidth="88dp"
         android:maxHeight="48dp"
         android:text="@string/inscrire"
+        android:textColor="#FFFFFF"
         android:visibility="visible" />
 
     <Button
@@ -24,10 +25,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="680px"
-        android:layout_marginTop="-50"
+        android:layout_marginTop="-130px"
         android:layout_marginRight="50px"
         android:background="#A12196F3"
-        android:text="@string/connecter" />
+        android:text="@string/connecter"
+        android:textColor="#FFFFFF" />
 
 
     <ImageView
@@ -45,8 +47,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center|fill_horizontal"
-        android:layout_marginLeft="20"
-        android:layout_marginTop="20"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="20px"
         android:layout_marginRight="20px"
         android:gravity="center"
         android:text="@string/bonjour"
@@ -60,10 +62,9 @@
         android:layout_width="60dp"
         android:layout_height="90dp"
         android:layout_gravity="center_vertical"
-        android:layout_marginLeft="-10"
-        android:layout_marginTop="-360"
-        android:layout_marginRight="380"
-        android:layout_marginBottom="800"
+        android:layout_marginLeft="10px"
+        android:layout_marginTop="-900px"
+        android:layout_marginRight="1000px"
         android:foregroundGravity="center_vertical"
         app:srcCompat="@android:drawable/ic_media_rew" />
 </LinearLayout>
