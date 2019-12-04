@@ -4,14 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginLeft="30"
-    android:layout_marginRight="-50"
-    android:layout_marginBottom="20"
     android:background="#CE03A9F4"
     android:orientation="vertical">
 
     <Button
-        android:id="@+id/inscrire"
+        android:id="@+id/inscrire_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="700px"
@@ -25,7 +22,7 @@
         android:textStyle="italic" />
 
     <Button
-        android:id="@+id/connecter"
+        android:id="@+id/connecter_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="160"
@@ -46,7 +43,7 @@
         android:layout_marginRight="30"
         android:layout_marginBottom="10"
         android:gravity="center"
-        android:text="@string/discover"
+        android:text="@string/decouvrir"
         android:textColor="#FFFFFF"
         android:textSize="35"
         android:textStyle="italic" />

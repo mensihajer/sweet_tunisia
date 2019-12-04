@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nom">FirstName</string>
+    <string name="prenom">LastName</string>
+    <string name="naissance">Brithaday</string>
+    <string name="num">Phone number</string>
+    <string name="email">mail</string>
+    <string name="password">Password</string>
+    <string name="identification">Authentification</string>
+    <string name="reset">Cancel</string>
+    <string name="send">Send</string>
+    <string name="incrire">Sign Up</string>
+    <string name="connecter">Sign In</string>
+    <string name="hotel">restaurant,cafe,hotel</string>
+    <string name="toristique">Toristique,hostrique,...</string>
+    <string name="goverment">searche for goverement</string>
+    <string name="bonjour">Hello Tunisia</string>
+    <string name="recherche">search</string>
+    <string name="bienvenue">welcome to Tunisia</string>
+    <string name="decouvrir">discover our beautiful Tunisia</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_tools">tool</string>
+    <string name="menu_share">share</string>
+    <string name="menu_send">send</string>
+    <string name="menu_search">search </string>
+    <string name="menu_map">open MAP</string>
+    <string name="nav_header_title">Sweet Tunisia</string>
+    <string name="nav_header_subtitle">sweet.tunisia@gmail.com</string>
+    <string name="email_or_password_empty">email or password is empty</string>
+    <string name="email_format_error"> invalid mail format  </string>
+    <string name="champs_vide">empty fields!ss</string>
+</resources>

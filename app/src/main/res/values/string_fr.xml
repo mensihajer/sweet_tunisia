@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="bienvenue">bienvenue au tunisie</string>
-    <string name="connecter">se connecter</string>
-    <string name="inscrire">s\'inscrire</string>
-    <string name="discover">decouvrir la belle Tunisie </string>
-    <string name="hello">bonjour la Tunisie</string>
-
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="naissance">Naissance</string>
+    <string name="num">Numéro télephone</string>
+    <string name="email">Email</string>
+    <string name="password">Mots de passe</string>
+    <string name="identification">Authentification</string>
+    <string name="annuler">Annuler</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="inscrire">s\'nscrire</string>
+    <string name="connecter">Connecter</string>
+    <string name="hotel">restaurant,cafe,hotel</string>
+    <string name="toristique">Toristique,hostrique,...</string>
+    <string name="goverment">recherche selon place</string>
+    <string name="bonjour">bonjour la tunisie</string>
+    <string name="recherche">rechercher </string>
+    <string name="bienvenue">bienvenue au Tunisie</string>
+    <string name="decouvrir">découvrir la belle Tunisie</string>
+    <string name="menu_home">accueil</string>
+    <string name="menu_tools">outils</string>
+    <string name="menu_share">partager</string>
+    <string name="menu_send">envoyer</string>
+    <string name="menu_search">rechercher </string>
+    <string name="menu_map">ouvrir MAP</string>
+    <string name="nav_header_title">Sweet Tunisia</string>
+    <string name="nav_header_subtitle">sweet.tunisia@gmail.com</string>
+    <string name="email_or_password_empty">renseigner tout les champs</string>
+    <string name="email_format_error">email invalide  </string>
+    <string name="champs_vide">remplir tous les champs </string>
 </resources>
