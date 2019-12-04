@@ -10,9 +10,8 @@
         android:id="@+id/inscrire_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="700px"
-        android:layout_marginTop="50px"
-        android:layout_marginRight="50px"
+        android:layout_marginLeft="550px"
+        android:layout_marginTop="20px"
         android:background="#A12196F3"
         android:text="@string/inscrire"
         android:textAllCaps="false"
@@ -24,8 +23,9 @@
         android:id="@+id/connecter_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="400px"
-        android:layout_marginTop="-120px"
+
+        android:layout_marginLeft="300px"
+        android:layout_marginTop="-100px"
         android:background="#A12196F3"
         android:text="@string/connecter"
         android:textAllCaps="false"
@@ -33,32 +33,27 @@
         android:textStyle="italic" />
 
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="354dp"
+        android:layout_height="393dp"
+        app:srcCompat="@drawable/telechargement" />
+
     <TextView
         android:id="@+id/bienvenue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="80px"
-        android:layout_marginTop="1100px"
         android:text="@string/bienvenue"
         android:textColor="#FFFFFF"
         android:textSize="36sp"
         android:textStyle="italic" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="-1100px"
-        android:layout_marginBottom="700px"
-        app:srcCompat="@drawable/telechargement" />
 
     <ImageView
         android:id="@+id/next"
         android:layout_width="47dp"
         android:layout_height="74dp"
-        android:layout_marginLeft="900px"
-        android:layout_marginTop="-1250px"
-        android:layout_marginRight="30px"
+
         app:srcCompat="@android:drawable/ic_media_ff" />
 
 
