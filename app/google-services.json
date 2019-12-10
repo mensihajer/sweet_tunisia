@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075626794581",
+    "firebase_url": "https://sweet-tunisia.firebaseio.com",
+    "project_id": "sweet-tunisia",
+    "storage_bucket": "sweet-tunisia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075626794581:android:54b60af0a3ff4c0840bedc",
+        "android_client_info": {
+          "package_name": "com.DSI31g2.sweet_tunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075626794581-d77spokfc7dflouq0ffthstri7lsnn2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZP3pw4Tnv-LImu2TQdql3MlR8xKlIZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075626794581-d77spokfc7dflouq0ffthstri7lsnn2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
