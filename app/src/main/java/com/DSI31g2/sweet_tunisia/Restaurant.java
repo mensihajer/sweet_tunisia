@@ -4,10 +4,12 @@ public class Restaurant {
     private String describe;
     private String localisation;
 
-    public Restaurant(String string, String describe, String localisation) {
+    public Restaurant(String describe, String localisation) {
         this.describe = describe;
         this.localisation = localisation;
     }
+
+
 
     public String getDescribe() {
         return describe;
