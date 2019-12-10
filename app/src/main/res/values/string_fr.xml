@@ -29,4 +29,14 @@
     <string name="email_or_password_empty">renseigner tout les champs</string>
     <string name="email_format_error">email invalide  </string>
     <string name="champs_vide">remplir tous les champs </string>
+    <string name="ajout_destination">ajouter destination toristique </string>
+    <string name="description_destination"> description </string>
+    <string name="locale_destination">locale</string>
+    <string name="ajout_cafe">ajouter un café </string>
+    <string name="description_cafe"> description </string>
+    <string name="locale_cafe">locale</string>
+    <string name="ajout_restaurant"> ajouter un restaurant</string>
+    <string name="ajout_rest">ajouter restaurant </string>
+    <string name="ajout_dest">ajouter destionation </string>
+    <string name="ajout_caf"> ajouter café</string>
 </resources>

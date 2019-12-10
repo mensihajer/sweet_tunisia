@@ -1,4 +1,4 @@
-package com.hajer.sweet_tunisia;
+package com.DSI31g2.sweet_tunisia;
 
 import android.content.Context;
 
